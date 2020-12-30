@@ -1,0 +1,53 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - BMKLocationKit (2.0.0)
+  - Bugly (2.5.71)
+  - JCore (2.4.0)
+  - JPush (3.4.0):
+    - JCore (< 3.0.0, >= 2.0.0)
+  - Kingfisher (4.10.1)
+  - ObjectMapper (3.5.3)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper
+  - BMKLocationKit
+  - Bugly
+  - JPush
+  - Kingfisher
+  - SnapKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - BMKLocationKit
+    - Bugly
+    - JCore
+    - JPush
+    - Kingfisher
+    - ObjectMapper
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  BMKLocationKit: 097814ef672b1e57e86e6c1968d7892fb78002bf
+  Bugly: fd066c75c4a0eca1440f9b6a84bd37d51bfc85ac
+  JCore: a29e4b0ee54e1301446dc02d8e1c350404108b34
+  JPush: defaa108c38806f6efdcfaf4c416854d25fca8e5
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 5b50cc8b300ecdd15621ecc3bad8adad9e8f185f
+
+COCOAPODS: 1.10.0.rc.1
